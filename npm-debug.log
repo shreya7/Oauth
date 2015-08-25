@@ -1,0 +1,68 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', 'httpie' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.25
+4 verbose readDependencies using package.json deps
+5 verbose cache add [ 'httpie', null ]
+6 verbose cache add name=undefined spec="httpie" args=["httpie",null]
+7 verbose parsed url { protocol: null,
+7 verbose parsed url   slashes: null,
+7 verbose parsed url   auth: null,
+7 verbose parsed url   host: null,
+7 verbose parsed url   port: null,
+7 verbose parsed url   hostname: null,
+7 verbose parsed url   hash: null,
+7 verbose parsed url   search: null,
+7 verbose parsed url   query: null,
+7 verbose parsed url   pathname: 'httpie',
+7 verbose parsed url   path: 'httpie',
+7 verbose parsed url   href: 'httpie' }
+8 silly lockFile ec63e05c-httpie httpie
+9 verbose lock httpie /home/saini/.npm/ec63e05c-httpie.lock
+10 silly lockFile ec63e05c-httpie httpie
+11 silly lockFile ec63e05c-httpie httpie
+12 verbose addNamed [ 'httpie', '' ]
+13 verbose addNamed [ null, '*' ]
+14 silly lockFile d2136059-httpie httpie@
+15 verbose lock httpie@ /home/saini/.npm/d2136059-httpie.lock
+16 silly addNameRange { name: 'httpie', range: '*', hasData: false }
+17 verbose request where is /httpie
+18 verbose request registry https://registry.npmjs.org/
+19 verbose request id 762340acee3b0c11
+20 verbose url raw /httpie
+21 verbose url resolving [ 'https://registry.npmjs.org/', './httpie' ]
+22 verbose url resolved https://registry.npmjs.org/httpie
+23 verbose request where is https://registry.npmjs.org/httpie
+24 info trying registry request attempt 1 at 13:32:23
+25 http GET https://registry.npmjs.org/httpie
+26 http 404 https://registry.npmjs.org/httpie
+27 silly registry.get cb [ 404,
+27 silly registry.get   { 'content-type': 'application/json',
+27 silly registry.get     'cache-control': 'max-age=0',
+27 silly registry.get     'content-length': '2',
+27 silly registry.get     'accept-ranges': 'bytes',
+27 silly registry.get     date: 'Sat, 22 Aug 2015 08:02:28 GMT',
+27 silly registry.get     via: '1.1 varnish',
+27 silly registry.get     age: '0',
+27 silly registry.get     connection: 'keep-alive',
+27 silly registry.get     'x-served-by': 'cache-sin6927-SIN',
+27 silly registry.get     'x-cache': 'MISS',
+27 silly registry.get     'x-cache-hits': '0',
+27 silly registry.get     'x-timer': 'S1440230548.323172,VS0,VE217' } ]
+28 silly lockFile d2136059-httpie httpie@
+29 silly lockFile d2136059-httpie httpie@
+30 error 404 Not Found
+30 error 404
+30 error 404 'httpie' is not in the npm registry.
+30 error 404 You should bug the author to publish it
+30 error 404 It was specified as a dependency of 'NodeAPI'
+30 error 404
+30 error 404 Note that you can also install from a
+30 error 404 tarball, folder, or http url, or git url.
+31 error System Linux 3.19.0-26-generic
+32 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "httpie"
+33 error cwd /home/saini/Music/NodeAPI
+34 error node -v v0.10.25
+35 error npm -v 1.4.21
+36 error code E404
+37 verbose exit [ 1, true ]

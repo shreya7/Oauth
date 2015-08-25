@@ -1,0 +1,50 @@
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:19:51.823Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-08-22T07:19:52.242Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-08-22T07:19:52.323Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:20:11.367Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-08-22T07:20:11.390Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-08-22T07:20:11.393Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:20:20.120Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-08-22T07:20:20.140Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-08-22T07:20:20.143Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T07:36:30.455Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:36:30.506Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T07:44:11.629Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:44:11.656Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T07:45:16.426Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:45:16.457Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T07:53:12.510Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:53:12.539Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T07:56:21.061Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-08-22T07:56:21.229Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-08-22T07:56:21.231Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T08:00:19.508Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:00:19.536Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T08:09:50.239Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:09:50.264Z"}
+{"level":"info","message":"New article created with id: 55d8321b2af408c9277e693b","timestamp":"2015-08-22T08:26:03.280Z"}
+{"level":"info","message":"New article created with id: 55d832672af408c9277e693e","timestamp":"2015-08-22T08:27:19.320Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:37:46.402Z"}
+{"level":"info","message":"New user - myapi:abc1234","timestamp":"2015-08-22T08:37:46.422Z"}
+{"level":"info","message":"New client - android:SomeRandomCharsAndNumbers","timestamp":"2015-08-22T08:37:46.425Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T08:39:28.940Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:39:28.965Z"}
+{"level":"info","message":"New article created with id: 55d8362f83976f232a8ce876","timestamp":"2015-08-22T08:43:27.818Z"}
+{"level":"info","message":"Express server listening on port 1337","timestamp":"2015-08-22T08:51:06.486Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:51:06.511Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-22T08:54:29.788Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:54:29.813Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-22T08:58:34.674Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:58:34.701Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-22T08:59:23.101Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T08:59:23.128Z"}
+{"level":"info","message":"New article created with id: 55d83b67cafd06432c1e4914","timestamp":"2015-08-22T09:05:43.457Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-22T09:06:59.993Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-22T09:07:00.019Z"}
+{"level":"info","message":"New article created with id: 55d83bf0672f73612d6a0c11","timestamp":"2015-08-22T09:08:00.583Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-24T15:30:04.384Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-24T15:30:04.411Z"}
+{"level":"info","message":"Express server listening on port 8085","timestamp":"2015-08-25T06:50:30.855Z"}
+{"level":"info","message":"Connected to DB!","timestamp":"2015-08-25T06:50:30.885Z"}
+{"level":"info","message":"New article created with id: 55dc11459cd44ca44fe54d3c","timestamp":"2015-08-25T06:55:01.693Z"}
+{"level":"info","message":"New article created with id: 55dc11cd9cd44ca44fe54d41","timestamp":"2015-08-25T06:57:17.790Z"}
